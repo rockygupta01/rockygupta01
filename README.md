@@ -25,6 +25,47 @@ I'm a passionate full-stack developer from India with expertise in building scal
 - ⚡ Fun fact: I think I'm funny (and I probably am!)
 
 ---
+## 🚀 Featured Projects
+
+### 📱 MEFABZ Scanner — Invoice Voice Reader
+Android app that scans invoices, extracts product data using OCR, and reads details aloud using Text-to-Speech.
+
+- 🔗 Repository: https://github.com/rockygupta01/mefabz-scanner
+- 🛠 Tech: **Kotlin, Jetpack Compose, ML Kit OCR, Android TTS**
+- ✨ Features:
+  - Scan invoice using camera
+  - Extract product name and quantity
+  - Voice reading of product details
+  - Works offline
+
+---
+
+### 🗂️ Task Management App (Agile / Scrum)
+A Trello-style task manager with authentication, task assignment, and team workflow.
+
+- 🔗 Repository: https://github.com/rockygupta01/task-management-app
+- 🛠 Tech: **Kotlin, Jetpack Compose, Firebase Auth, Room DB**
+- ✨ Features:
+  - User authentication
+  - Create / update / delete tasks
+  - Assign tasks to team members
+  - Agile board style workflow
+
+---
+
+### 🛒 E-Commerce Product Management
+Web application to manage products, orders, and inventory for small sellers.
+
+- 🔗 Repository: https://github.com/rockygupta01/ecommerce-management
+- 🛠 Tech: **React, Node.js, Express, MongoDB**
+- ✨ Features:
+  - Product inventory system
+  - Order tracking
+  - Admin dashboard
+  - REST API backend
+
+---
+
 
 ## 🛠️ Tech Stack
 
