@@ -30,7 +30,7 @@ I'm a passionate full-stack developer from India with expertise in building scal
 ### 📱 MEFABZ Scanner — Invoice Voice Reader
 Android app that scans invoices, extracts product data using OCR, and reads details aloud using Text-to-Speech.
 
-- 🔗 Repository: https://github.com/rockygupta01/mefabz-scanner
+- 🔗 Repository: https://play.google.com/store/apps/details?id=com.tscprinter.fnsku&pcampaignid=web_share
 - 🛠 Tech: **Kotlin, Jetpack Compose, ML Kit OCR, Android TTS**
 - ✨ Features:
   - Scan invoice using camera
