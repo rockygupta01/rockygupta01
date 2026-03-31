@@ -28,16 +28,27 @@ I'm a passionate full-stack developer from India with expertise in building scal
 ## 🚀 Featured Projects
 
 ### 📱 MEFABZ Scanner — Invoice Voice Reader
-Android app that scans invoices, extracts product data using OCR, and reads details aloud using Text-to-Speech.
 
-- 🔗 Repository: https://play.google.com/store/apps/details?id=com.tscprinter.fnsku&pcampaignid=web_share
-- 🛠 Tech: **Kotlin, Jetpack Compose, ML Kit OCR, Android TTS**
-- ✨ Features:
-  - Scan invoice using camera
-  - Extract product name and quantity
-  - Voice reading of product details
-  - Works offline
+Live App: https://play.google.com/store/apps/details?id=com.mefabz.scanner&pcampaignid=web_share
 
+Tech: Kotlin, Jetpack Compose, ML Kit OCR, Android TTS
+
+Description:
+Built a production-ready Android application that scans invoices, extracts structured product data using OCR, and converts it into voice output for hands-free usage.
+
+Key Features:
+
+Real-time invoice scanning using camera
+OCR-based product name and quantity extraction
+Text-to-Speech for automated reading
+Offline-first architecture for reliability
+Optimized for small business and warehouse workflows
+
+Impact:
+
+Reduces manual data entry effort
+Helps Amazon sellers process inventory faster
+Improves accessibility with voice output
 ---
 
 ### 🗂️ Task Management App (Agile / Scrum)
@@ -65,6 +76,36 @@ Web application to manage products, orders, and inventory for small sellers.
   - REST API backend
 
 ---
+🖨️ FN SKU Printer — Label Automation for Sellers
+
+🔗 Live App: https://play.google.com/store/apps/details?id=com.tscprinter.fnsku
+
+Tech: Kotlin, Android SDK, Bluetooth Printing, Thermal Printer Integration
+
+Description:
+Developed a production-ready Android app that enables sellers to generate and print SKU labels directly from their mobile devices. Built to streamline labeling workflows for Amazon and small-scale e-commerce operations.
+
+Key Features:
+
+Instant SKU label generation and printing
+Bluetooth connectivity with thermal printers (TSC supported)
+Minimal, fast, and user-friendly interface
+Lightweight app optimized for low-end devices
+Reliable performance in warehouse environments
+
+Impact:
+
+Reduces manual labeling time significantly
+Improves order processing speed for sellers
+Simplifies inventory management workflows
+Designed for real-world e-commerce operations (Amazon sellers)
+🔥 Why this works (important for you)
+
+This version:
+
+Shows real-world use (Amazon seller problem)
+Highlights engineering + business impact
+Makes your profile look like builder + entrepreneur, not just coder
 
 
 ## 🛠️ Tech Stack
