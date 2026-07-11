@@ -25,6 +25,8 @@ Generates and prints Amazon FNSKU labels directly from an Android phone via Blue
 Stack: Kotlin · Android SDK · Bluetooth API · TSC Thermal Printer SDK
 ```
 
+🔗 [View on Play Store](https://play.google.com/store/apps/details?id=com.tscprinter.fnsku&hl=en_IN)
+
 ### Personal Finance Tracker
 Android app for tracking personal income/expenses with a clean, simple UI.
 
@@ -62,7 +64,7 @@ Stack: Kotlin · Jetpack Compose · Room DB
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
 [![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
 [![Website](https://img.shields.io/badge/MEFABZ-mefabz.com-6c63ff?style=for-the-badge&logo=safari&logoColor=white)](https://mefabz.com)
-[![Play Store](https://img.shields.io/badge/Play%20Store-Apps-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/dev?id=YOUR_DEV_ID)
+[![Play Store](https://img.shields.io/badge/Play%20Store-FNSKU%20Printer-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tscprinter.fnsku&hl=en_IN)
 
 </div>
 
