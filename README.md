@@ -61,8 +61,8 @@ Stack: Kotlin · Jetpack Compose · Room DB
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINKEDIN)
-[![Email](https://img.shields.io/badge/Email-YOUR_EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rockygupta01/)
+[![Email](https://img.shields.io/badge/Email-rockygupta0501%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rockygupta0501@gmail.com)
 [![Website](https://img.shields.io/badge/MEFABZ-mefabz.com-6c63ff?style=for-the-badge&logo=safari&logoColor=white)](https://mefabz.com)
 [![Play Store](https://img.shields.io/badge/Play%20Store-FNSKU%20Printer-414141?style=for-the-badge&logo=googleplay&logoColor=white)](https://play.google.com/store/apps/details?id=com.tscprinter.fnsku&hl=en_IN)
 
